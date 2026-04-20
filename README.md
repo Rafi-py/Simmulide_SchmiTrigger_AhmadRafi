@@ -1,1 +1,1 @@
-# Simmulide_SchmiTrigger_AhmadRafi
+# Tugas_Rangkaian Analog_AhmadRafi
